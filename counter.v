@@ -10,7 +10,7 @@
 // of the Customer's facilities without the express written permission of SISW,
 // and may not be used in any way not expressly authorized by SISW.
 //111
-
+bug
 `timescale 1ns / 1ns
 module counter (count, clk, reset);
 output [7:0] count;
